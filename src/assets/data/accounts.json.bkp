@@ -1,0 +1,24 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Conta_1",
+      "balance": 1000
+    },
+    {
+      "id": 2,
+      "name": "Conta_2",
+      "balance": 2000
+    },
+    {
+      "id": 3,
+      "name": "Conta_3",
+      "balance": 3000
+    },
+    {
+      "id": 4,
+      "name": "Conta_4",
+      "balance": 4000
+    }
+  ]
+}
